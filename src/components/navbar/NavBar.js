@@ -6,10 +6,10 @@ export default function NavBar() {
       <div className="navContainer">
         <span className="logo">buking.com</span>
         <div className="navItems">
-          <a href="#" className="navLink">
+          <a href="/" className="navLink">
             Register
           </a>
-          <a href="#" className="navLink">
+          <a href="/" className="navLink">
             Login
           </a>
         </div>
